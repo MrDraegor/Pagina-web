@@ -18,7 +18,7 @@ body {
 }
 
 .header {
-    background-image: url(imagenes/bg.png);
+    background-image: url(imagenes/5956506bede6b.jpg);
     background-position: center bottom;
     background-repeat: no-repeat;
     background-size: cover;
@@ -54,7 +54,7 @@ body {
 .menu .navbar ul li a {
     font-size: 18px;
     padding: 20px;
-    color: #fffdfc;
+    color: #ffffff;
     display: block;
     font-weight: 600;
 }
@@ -80,16 +80,16 @@ body {
 
 .header-txt h1 {
     font-size: 85px;
-    color: #fffdfc;
+    color: #f9f9f9;
     text-transform: uppercase;
-    margin-bottom: 20px;
+    margin-bottom: 10%;
 }
 
 .header-txt p {
-    color: #bebebe;
+    color: #f5f5f5;
     font-size: 16px;
     padding: 0 250px;
-    margin-bottom: 45px;
+    margin-bottom: 50px;
 }
 
 .btn-1 {
@@ -103,8 +103,8 @@ body {
 }
 
 .btn-1:hover {
-    color: #0e1a29;
-    background-color: #ddd6d3;
+    color: #ffffff;
+    background-color: #000000;
 }
 
 .general {
@@ -186,13 +186,13 @@ h2 {
 
 .txt h3 {
     font-size: 18px;
-    color: #000000;
+    color: #110e0e;
     text-transform: uppercase;
     margin-bottom: 10px;
 }
 
 .txt p {
-    color: #463d3db3;
+    color: #5f3d36b3;
     font-size: 18px;
 }
 
@@ -303,7 +303,7 @@ h2 {
     padding: 17px 15px;
     border: 2px solid #b4b4b4;
     outline: none;
-    color: #1b293a;
+    color: #0b72ef;
 
 }
 
@@ -313,7 +313,7 @@ h2 {
 
 .btn-2 {
     padding: 17px 35px;
-    border: 2px solid #1b293a;
+    border: 2px solid #0d5bba;
     color: #fffdfc;
 }
 
@@ -324,7 +324,7 @@ h2 {
 }
 
 .footer-txt p {
-    color: #1b293a;
+    color: #0071fc;
     font-size: 16px;
 }
 
@@ -342,7 +342,7 @@ h2 {
         top: 100%;
         left: 0;
         right: 0;
-        background-color: #1b293a;
+        background-color: #094c9e;
         display: none;
     }
 
