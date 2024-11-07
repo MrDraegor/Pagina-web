@@ -450,3 +450,36 @@ h2 {
 
 
 }
+.galeria{ 
+    display: flex; 
+    height: 25rem; 
+    gap: 1rem; 
+} 
+.galeria > div {
+     flex: 1; 
+     border-radius: 1rem; 
+     background-position: center; 
+     background-repeat: no-repeat; 
+     background-size: auto 100%; 
+     transition: all .9s cubic-bezier(.25, .4, .45, 1.4); 
+    } 
+.galeria > div:hover {
+    flex: 5; 
+    } 
+.info-acto {
+    display: flex; 
+    justify-content: space-between; 
+    margin-top: 1px; 
+    }
+.acto-txt {
+    width: 100%; 
+    display: flex; 
+    flex-direction: column; 
+    align-items: left; 
+    text-align: right; 
+    margin: 0 10px; 
+   } 
+.acto-txt p {
+    color: #c25822; 
+    margin-top: 25px; 
+    }
